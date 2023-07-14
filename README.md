@@ -10,3 +10,4 @@ Data Science tasks from Oasis Infobyte
 * Task 3- Car Price Prediction
 * Task 4- Email Spam Detection
 * Task 5- Sales Prediction
+<img src="https://github.com/Shravani1383/OIBSIP/blob/main/oasis%20infobyte.jpg">
