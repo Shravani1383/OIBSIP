@@ -1,3 +1,11 @@
 # OIBSIP
 Data Science tasks from Oasis Infobyte
-![MasterHead]([https://github.com/Shravani1383/Shravani1383/blob/main/Front%20Page.png](https://media.licdn.com/dms/image/C4E0BAQHfk_O8amPovQ/company-logo_200_200/0/1642532597169?e=2147483647&v=beta&t=d5ptvJvSiIIZY44K2Qj9iEi_yimrIVAqxJIb8OTGNRA)https://media.licdn.com/dms/image/C4E0BAQHfk_O8amPovQ/company-logo_200_200/0/1642532597169?e=2147483647&v=beta&t=d5ptvJvSiIIZY44K2Qj9iEi_yimrIVAqxJIb8OTGNRA)
+## Introduction to Oasis Infobyte
+<p>OASIS INFOBYTE is a community of diverse people coming together with similar objectives and ultimate goals.</p> 
+<p>OASIS INFOBYTE is all about creating opportunities for leadership development, learning, student engagement, and fostering of shared interests. We develop enriching environments and experiences that promote students' knowledge and wellbeing.</p>
+## Tasks from Oasis Infobyte
+* Task 1- Iris Flower Classification
+* Task 2- Unemployment -Analysis
+* Task 3- Car Price Prediction
+* Task 4- Email Spam Detection
+* Task 5- Sales Prediction
